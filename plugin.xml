@@ -33,10 +33,10 @@
 		<source-file src="src/android/alipayutdid.jar" target-dir="libs" />
 
 		<config-file target="res/xml/config.xml" parent="/*">
-			<preference name="partner" value="" />
+			<preference name="partner" value="2088221975391829" />
 			<preference name="rsa_private"
-				value="" />
-			<preference name="" />
+				value="MIICeAIBADANBgkqhkiG9w0BAQEFAASCAmIwggJeAgEAAoGBANdAH9y3sqCQv+z6/dqwpo1g6WJ7i5UdESzRmvl5SxnvLQdg0pBkbM4mEiNYqSfeWLLhMUBS8sGezs1MFIz97Xm5GBTwrSX1RTXqtR6xTIpAg+YubRIIzSXqXERbxiY23Q2b1EcazDEGmQj/dBpb6uxXDLRjtOrzw1pJs2/HdroRAgMBAAECgYEAhX+Jw1RS/u6Heiy4oJeK1IhUdvX0vgiHDGr7WNp3T6BdJwRP06nVKY3HFhD46HcoP9kWuLQ5Rwh9bipPXJpoW0BSVa4iSBbxIFPQHHZLD0aSVEBJ4THwNu+CoMIUiXz1Gwd35wBBbLgnmshMLQJoiRIkermpshbFvlXzM3TaRFkCQQD5SBNUCF8TLwaWhG9h3D1sIicWU75vzcNwWj9sun+WWHiB/lrl/IQB5Dw+56GvKM+zGQHjom52gjtICl4XugEnAkEA3Q1AM4aLMWMQ+lLR3DIZ2ogMJLhJLnJscTSkp1zmxZxthNZscDbFyS94y/FMdQvn5PP7RQ39qgLS+b13d2T+BwJBAKjPm28zwBbAqMhzZO4zdFDvC+M90N/ryuch5oOeBFrvDKSTeED48PhK9FVxDPgOPiE91R6vV/jfFoAhrTiKGM8CQQCJMoQ6drNFv9r1wxmFtYLeY7pFwCuLrHEqAiZ/yeVhmSlQXVWIgDZaHCC5U9bEftM7A0NdJMXgE0imwLW5YPFZAkAiWdyvm8otofhJtmY/3cpD/Fq96t/R5zE3HGeHPrHHT82VapXGaEsPpIl9TOIZIMr42vEDtYvdFvB7OVx7Fuwj" />
+			<preference name="MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDDI6d306Q8fIfCOaTXyiUeJHkrIvYISRcc73s3vF1ZT7XN8RNPwJxo8pWaJMmvyTn9N4HQ632qJBVHf8sxHi/fEsraprwCtzvzQETrNRwVxLO5jVmRGi60j8Ue1efIlzPXV9je9mkjzOmdssymZkh2QhUrCmZYI/FCEa3/cNMW0QIDAQAB" />
 			<feature name="Alipay">
 				<param name="android-package" value="com.yoopoon.cordova.plugin.alipay.Alipay" />
 				<param name="onload" value="true" />
